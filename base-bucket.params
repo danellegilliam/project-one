@@ -1,0 +1,10 @@
+AccountId:
+  Default: 100114369084
+Application:
+  Default: gilliam
+Network:
+  Default: internal
+Environment:
+  Default: dev
+EncryptBucket:
+  Default: no
